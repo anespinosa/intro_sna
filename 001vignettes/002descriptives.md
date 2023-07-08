@@ -264,8 +264,8 @@ effective_size <- ncol(egoU4) - redundancy
 (efficiency <- effective_size/ncol(egoU4)) # Qué tan redundante es la red de U4?
 ```
 
-Para calcular constreñimiento consideraremos la implementación realizada
-por Martin Everett y Steve Borgatti
+Para calcular constreñimiento consideraremos la implementación sobre un
+artículo publicado por Martin Everett y Steve Borgatti
 ([2020](https://doi.org/10.1016/j.socnet.2020.02.001))
 
 ``` r
@@ -277,6 +277,10 @@ eb_constraint(addegoU4, ego="U4")
 
 igraph::constraint(graph.adjacency(addegoU4))['U4']
 ```
+
+Algunas de estas medidas han sido bastante criticadas, por ejemplo:
+Keynote de [Steve Borgatti en la conferencia Chilena de Redes
+2023](https://www.youtube.com/watch?v=IZN8I6a27mc&t=1408s)
 
 ## Nivel local del nodo
 
