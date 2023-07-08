@@ -27,11 +27,15 @@ Curso impartido por:
 
 **Break**: 10:40 - 10:50 (CLST/UTC -3)
 
-**Introducción a R**: 10:50 - 11:05 (CLST/UTC -3)
+**Introducción a la Manipulación de Datos Reticulares usando R**: 10:50 - 11:30 (CLST/UTC -3)
 
-**Introducción al Análisis de Redes Sociales usando R**: 11:05 - 11:50 (CLST/UTC -3)
+**Break**: 11:30 - 11:40 (CLST/UTC -3)
 
-**Dudas y comentarios**: 11:50 - 12:10 (CLST/UTC -3)
+**Introducción a Algunas Medidas Descriptivas para el Análisis de Redes Sociales**: 11:40 - 12:20 (CLST/UTC -3)
+
+**Break**: 12:20 - 12:30 (CLST/UTC -3)
+
+**Introducción a Medidas Descriptivas para el Análisis de Redes Sociales usando R**: 12:30 - 13:00 (CLST/UTC -3)
 
 ---
 
