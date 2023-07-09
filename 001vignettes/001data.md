@@ -162,8 +162,6 @@ V(g1)$citations <- eies$citations
 V(g1)$disciplines <- eies$discipline
 g1
 
-# TODO: add matrix into igraph object!
-
 # Visualización:
 plot(igraph::graph.adjacency(eiesT1, weighted = TRUE))
 ```
@@ -297,8 +295,6 @@ network::network(edgelist,
 ``` r
 (adjlist <- netmem::matrix_adjlist(eiesT1))
 igraph::get.adjlist(g1)
-
-# TODO: add adj list for network!
 
 # Ejercicio: En qué contexto puede ser útil utilizar listas de adyacencias?
 ```
