@@ -47,7 +47,7 @@ usando R**: 12:30 - 13:00 (CLST/UTC -3)
 
 ------------------------------------------------------------------------
 
-## Referencias del Workshop
+## Referencias del Workshop <img src="book.png" align="right" width="180px"/>
 
 - Espinosa-Rada, A. (2022). Modelos estocásticos orientados en el actor
   utilizando RSiena (II): Formato de los Datos. *Redes. Revista Hispana

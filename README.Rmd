@@ -49,11 +49,12 @@ Curso impartido por:
 
 ---
 
-## Referencias del Workshop
+## Referencias del Workshop <img src="book.png" align="right" width="180px"/>
 
 - Espinosa-Rada, A. (2022). Modelos estocásticos orientados en el actor utilizando RSiena (II): Formato de los Datos. *Redes. Revista Hispana para el Análisis de Redes Sociales*, 33(1), 100–111. doi: https://doi.org/10.5565/rev/redes.937
 - Espinosa-Rada, A., & Uzaheta, A. (2022). Modelos estocásticos orientados en el actor utilizando RSiena (III): Análisis Descriptivo. *Redes. Revista Hispana para el Análisis de Redes Sociales*, 33(2): 196-202. doi: https://doi.org/10.5565/rev/redes.956
 - Ortiz, Francisca (*En prensa, 2023*). *Aproximación metodológica a las redes personales y egoredes: análisis de la red completa y centralidades* En: Francisca Ortiz y Alejandro Espinosa-Rada (Eds.). Redes Sociales. Teoría, Métodos y Aplicaciones en América Latina
+
 
 ---
 
